@@ -1,16 +1,16 @@
+# Welcome
 ### Hi there 👋
 
-<!--
-**Ednas/Ednas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 🌈 Edna 🌈
 
-Here are some ideas to get you started:
+* 😄 Pronouns: She/Her, uses Mx. honorific (pronounced as mix)
+* 💬 Ask me about: Coding bootcamp experience 
+* 🌱 I’m currently learning cyber security
+* 🔭 I’m currently working on lots of side projects, learning electronics, my NASA Space Apps Challenge, Girls Who Code club @ the Tampa Hackerspace 
+* ⚡ Fun fact: I was born & raised in 🇮🇸 Iceland 🇮🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 How to reach me:
+
+I'm on Twitter as @ednas
