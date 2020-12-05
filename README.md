@@ -7,6 +7,8 @@
 * 💬 Ask me about: Coding bootcamp experience 
 * 🌱 I’m currently learning cyber security
 * 🔭 I’m currently working on lots of side projects, learning electronics, my NASA Space Apps Challenge, Girls Who Code club @ the Tampa Hackerspace 
+* 🏡💻 I've been a remote worker since 2017 
+* 🖥️ 👩‍💻 I teach adults how to code
 * ⚡ Fun fact: I was born & raised in 🇮🇸 Iceland 🇮🇸
 
 ## Quick Stats
@@ -16,5 +18,3 @@
 
 I'm on Twitter as @ednas
 
-## Voted in 2020 
-![voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
