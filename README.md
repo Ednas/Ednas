@@ -20,4 +20,4 @@
 
 I'm on Twitter as [@ednas](https://twitter.com/ednas)
 
-<script src="https://tryhackme.com/badge/332917"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ET.png" alt="TryHackMe">
