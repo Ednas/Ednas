@@ -10,7 +10,7 @@
 * 🏴‍☠️ CTF's and comptetitions: TraceLabs CTF, NCL, NICE Challenges
 * 🏡💻 I've been a remote worker since 2017 
 * 👩‍💻 I work doing Help desk support at a MSP
-* 🖥️ 👩‍💻 I have been a coding bootcamp instructor/TA and tutor, teaching adults how to code
+* 🖥️ 👩‍💻 I have been a coding bootcamp instructor/TA and tutor since 2016, teaching adults how to code
 * ⚡ Fun fact: I was born & raised in 🇮🇸 Iceland 🇮🇸
 
 ## Quick Stats
@@ -18,4 +18,6 @@
 
 ## 📫 How to reach me:
 
-I'm on Twitter as @ednas
+I'm on Twitter as [@ednas](https://twitter.com/ednas)
+
+<script src="https://tryhackme.com/badge/332917"></script>
